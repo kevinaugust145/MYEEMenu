@@ -1,8 +1,92 @@
 {
   "restaurant": {
-    "name": "滿姨麵疙瘩",
-    "address": "新北市樹林區中華路150之9號",
-    "phone": "02-86862840",
-  
+    "name": "麵食天地",
+    "address": "台北市中正區和平西路一段123號",
+    "phone": "02-1234-5678",
+    "menu": {
+      "noodles": [
+        {
+          "id": 1,
+          "name": "牛肉麵",
+          "description": "手工拉麵搭配嫩滑牛肉",
+          "price": {
+            "small": 200,
+            "large": 250
+          },
+          "options": {
+            "type": ["湯麵", "乾麵"],
+            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "addScallion": true,
+            "spicyLevel": 2
+          },
+          "available": true
+        },
+        {
+          "id": 2,
+          "name": "炸醬麵",
+          "description": "經典北方面食，醬香濃郁",
+          "price": {
+            "small": 150,
+            "large": 180
+          },
+          "options": {
+            "type": ["乾麵"],
+            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "addScallion": true,
+            "spicyLevel": 1
+          },
+          "available": true
+        },
+        {
+          "id": 3,
+          "name": "酸辣湯麵",
+          "description": "開胃酸辣湯配上勁道麵條",
+          "price": {
+            "small": 180,
+            "large": 200
+          },
+          "options": {
+            "type": ["湯麵"],
+            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "addScallion": false,
+            "spicyLevel": 3
+          },
+          "available": true
+        }
+      ],
+      "sideDishes": [
+        {
+          "id": 1,
+          "name": "小籠包",
+          "description": "鮮美多汁的小籠包",
+          "price": 100,
+          "available": true
+        },
+        {
+          "id": 2,
+          "name": "涼拌黃瓜",
+          "description": "清爽的黃瓜搭配蒜香",
+          "price": 80,
+          "available": true
+        }
+      ],
+      "drinks": [
+        {
+          "id": 1,
+          "name": "綠茶",
+          "description": "清涼解渴的綠茶",
+          "price": 30,
+          "available": true
+        },
+        {
+          "id": 2,
+          "name": "酸梅湯",
+          "description": "傳統的酸梅湯，酸甜適中",
+          "price": 50,
+          "available": true
+        }
+      ]
+    }
   }
 }
+

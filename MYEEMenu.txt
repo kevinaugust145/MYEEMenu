@@ -14,14 +14,22 @@
             "large": 65
           },
           "options": {
-            "type": ["湯的", "乾的"],
-           "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "type": [
+              "湯的",
+              "乾的"
+            ],
+            "noodleType": [
+              "意麵",
+              "油麵",
+              "陽春寬麵",
+              "陽春細麵"
+            ],
             "addScallion": true,
             "spicyLevel": 2
           },
           "available": true
         },
-       {
+        {
           "id": 2,
           "name": "炸菜肉絲麵",
           "description": "",
@@ -30,13 +38,21 @@
             "large": 60
           },
           "options": {
-           "type": ["湯的", "乾的"],
-		"noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "type": [
+              "湯的",
+              "乾的"
+            ],
+            "noodleType": [
+              "意麵",
+              "油麵",
+              "陽春寬麵",
+              "陽春細麵"
+            ],
             "addScallion": true,
             "spicyLevel": 1
           },
           "available": true
-        },
+        }
       ],
       "sideDishes": [
         {
@@ -46,21 +62,21 @@
           "price": 30,
           "available": true
         },
-       {
+        {
           "id": 2,
           "name": "四季豆",
           "description": "",
           "price": 30,
           "available": true
-        },      
-       {
+        },
+        {
           "id": 3,
           "name": "豬頭皮",
           "description": "",
           "price": 30,
           "available": true
         },
-       {
+        {
           "id": 4,
           "name": "涼伴素雞",
           "description": "",

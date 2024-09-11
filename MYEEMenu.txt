@@ -23,22 +23,6 @@
         },
         {
           "id": 2,
-          "name": "炸菜肉絲麵",
-          "description": "經典北方面食，醬香濃郁",
-          "price": {
-            "small": 45,
-            "large": 60
-          },
-          "options": {
-            "type": ["乾麵"],
-            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
-            "addScallion": true,
-            "spicyLevel": 1
-          },
-          "available": true
-        },
-        {
-          "id": 2,
           "name": "炸醬麵",
           "description": "經典北方面食，醬香濃郁",
           "price": {

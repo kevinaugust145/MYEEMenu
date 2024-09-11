@@ -10,14 +10,30 @@
           "name": "麵疙瘩",
           "description": "手工麵皮加香菇肉絲",
           "price": {
-            "small": 200,
-            "large": 250
+            "small": 50,
+            "large": 65
           },
           "options": {
             "type": ["湯麵", "乾麵"],
-            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "noodleType": ["", "", "", ""],
             "addScallion": true,
             "spicyLevel": 2
+          },
+          "available": true
+        },
+    {
+          "id": 2,
+          "name": "炸菜肉絲麵",
+          "description": "經典北方面食，醬香濃郁",
+          "price": {
+            "small": 45,
+            "large": 60
+          },
+          "options": {
+            "type": ["乾麵"],
+            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "addScallion": true,
+            "spicyLevel": 1
           },
           "available": true
         },
@@ -26,8 +42,8 @@
           "name": "炸醬麵",
           "description": "經典北方面食，醬香濃郁",
           "price": {
-            "small": 150,
-            "large": 180
+            "small": 45,
+            "large": 60
           },
           "options": {
             "type": ["乾麵"],

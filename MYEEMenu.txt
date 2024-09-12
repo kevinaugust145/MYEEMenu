@@ -38,7 +38,7 @@
           "available": true
         },
       {
-          "id": 2,
+          "id": 3,
           "name": "炸麵",
           "description": "經典北方面食，醬香濃郁",
           "price": {
@@ -54,7 +54,7 @@
           "available": true
         },
         {
-          "id": 3,
+          "id": 4,
           "name": "酸辣湯麵",
           "description": "開胃酸辣湯配上勁道麵條",
           "price": {

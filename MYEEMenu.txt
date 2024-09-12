@@ -14,8 +14,16 @@
             "large": 65
           },
           "options": {
-            "type": ["湯麵", "乾麵"],
-            "noodleType": ["", "", "", ""],
+            "type": [
+              "湯麵",
+              "乾麵"
+            ],
+            "noodleType": [
+              "",
+              "",
+              "",
+              ""
+            ],
             "addScallion": true,
             "spicyLevel": 2
           },
@@ -23,31 +31,47 @@
         },
         {
           "id": 2,
-          "name": "炸醬麵",
-          "description": "經典北方面食，醬香濃郁",
+          "name": "炸菜肉絲麵",
+          "description": "炸菜肉絲",
           "price": {
             "small": 45,
             "large": 60
           },
           "options": {
-            "type": ["乾麵"],
-            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "type": [
+              "湯麵",
+              "乾麵"
+            ],
+            "noodleType": [
+              "意麵",
+              "油麵",
+              "陽春寬麵",
+              "陽春細麵"
+            ],
             "addScallion": true,
             "spicyLevel": 1
           },
           "available": true
         },
-      {
+        {
           "id": 3,
-          "name": "炸麵",
-          "description": "經典北方面食，醬香濃郁",
+          "name": "香菇肉絲麵",
+          "description": "香菇肉絲",
           "price": {
-            "small": 45,
-            "large": 60
+            "small": 50,
+            "large": 65
           },
           "options": {
-            "type": ["乾麵"],
-            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "type": [
+              "湯麵",
+              "乾麵"
+            ],
+            "noodleType": [
+              "意麵",
+              "油麵",
+              "陽春寬麵",
+              "陽春細麵"
+            ],
             "addScallion": true,
             "spicyLevel": 1
           },
@@ -55,17 +79,94 @@
         },
         {
           "id": 4,
-          "name": "酸辣湯麵",
-          "description": "開胃酸辣湯配上勁道麵條",
+          "name": "肉燥麵",
+          "description": "肉燥麵",
           "price": {
-            "small": 180,
-            "large": 200
+            "small": 35,
+            "large": 50
           },
           "options": {
-            "type": ["湯麵"],
-            "noodleType": ["意麵", "油麵", "陽春寬麵", "陽春細麵"],
+            "type": [
+              "湯麵",
+              "乾麵"
+            ],
+            "noodleType": [
+              "意麵",
+              "油麵",
+              "陽春寬麵",
+              "陽春細麵"
+            ],
+            "addScallion": true,
+            "spicyLevel": 1
+          },
+          "available": true
+        },
+        {
+          "id": 5,
+          "name": "炸醬麵",
+          "description": "炸醬",
+          "price": {
+            "small": 45,
+            "large": 60
+          },
+          "options": {
+            "type": [
+              "乾麵"
+            ],
+            "noodleType": [
+              "意麵",
+              "油麵",
+              "陽春寬麵",
+              "陽春細麵"
+            ],
             "addScallion": false,
             "spicyLevel": 3
+          },
+          "available": true
+        },
+        {
+          "id": 6,
+          "name": "餛飩麵",
+          "description": "開胃酸辣湯配上勁道麵條",
+          "price": {
+            "small": 45,
+            "large": 60
+          },
+          "options": {
+            "type": [
+              "湯麵",
+              "乾麵"
+            ],
+            "noodleType": [
+              "意麵",
+              "油麵",
+              "陽春寬麵",
+              "陽春細麵"
+            ],
+            "addScallion": false,
+            "spicyLevel": 3
+          },
+          "available": true
+        }
+      ],
+      "rice": [
+        {
+          "id": 1,
+          "name": "香菇肉絲飯",
+          "description": "清涼解渴的綠茶",
+          "price": {
+            "small": 35,
+            "large": 45
+          },
+          "available": true
+        },
+        {
+          "id": 1,
+          "name": "滷肉飯",
+          "description": "清涼解渴的綠茶",
+          "price": {
+            "small": 25,
+            "large": 40
           },
           "available": true
         }
@@ -105,4 +206,3 @@
     }
   }
 }
-

@@ -174,31 +174,49 @@
       "sideDishes": [
         {
           "id": 1,
-          "name": "小籠包",
-          "description": "鮮美多汁的小籠包",
-          "price": 100,
-          "available": true
-        },
-        {
-          "id": 2,
-          "name": "涼拌黃瓜",
+          "name": "小黃瓜",
           "description": "清爽的黃瓜搭配蒜香",
-          "price": 80,
-          "available": true
-        }
-      ],
-      "drinks": [
-        {
-          "id": 1,
-          "name": "綠茶",
-          "description": "清涼解渴的綠茶",
           "price": 30,
           "available": true
+       },        
+       {
+          "id": 2,
+          "name": "四季豆",
+          "description": "",
+          "price": 30,
+          "available": true
+        },       {
+          "id": 3,
+          "name": "豬耳朵",
+          "description": "",
+          "price": 30,
+          "available": true
+        },       {
+          "id": 4,
+          "name": "涼伴素雞",
+          "description": "",
+          "price": 20,
+          "available": true
+        },       {
+          "id": 5,
+          "name": "海帶絲白干絲",
+          "description": "",
+          "price": 20,
+          "available": true
+        },
+      ],
+      "soup": [
+        {
+          "id": 1,
+          "name": "嘴邊肉湯",
+          "description": "",
+          "price": 50,
+          "available": true
         },
         {
           "id": 2,
-          "name": "酸梅湯",
-          "description": "傳統的酸梅湯，酸甜適中",
+          "name": "肝連湯",
+          "description": "",
           "price": 50,
           "available": true
         }

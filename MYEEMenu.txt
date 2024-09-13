@@ -209,49 +209,49 @@
         },
         {
           "id": 6,
-          "name": “海帶芽”,
+          "name": "海帶芽",
           "description": "",
           "price": 20,
           "available": true
         },
         {
           "id": 7,
-          "name": “湯青菜”,
+          "name": "湯青菜",
           "description": "",
           "price": 30,
           "available": true
         },
         {
           "id": 8,
-          "name": “油豆腐”,
+          "name": "油豆腐",
           "description": "",
           "price": 10,
           "available": true
         },
         {
           "id": 9,
-          "name": “花干”,
+          "name": "花干",
           "description": "",
           "price": 15,
           "available": true
         },
         {
           "id": 10,
-          "name": “海帶”,
+          "name": "海帶",
           "description": "",
           "price": 10,
           "available": true
         },
         {
           "id": 11,
-          "name": “魯蛋",
+          "name": "魯蛋",
           "description": "",
           "price": 15,
           "available": true
         },
         {
           "id": 12,
-          "name": “豆干”,
+          "name": "豆干",
           "description": "",
           "price": 10,
           "available": true
@@ -271,38 +271,38 @@
           "description": "",
           "price": 50,
           "available": true
-        }
-   {
+        },
+        {
           "id": 3,
-          "name": “豬腸湯”,
+          "name": "豬腸湯",
           "description": "",
           "price": 40,
           "available": true
         },
-   {
+        {
           "id": 5,
-          "name": “金針湯",
+          "name": "金針湯",
           "description": "",
           "price": 35,
           "available": true
         },
-   {
+        {
           "id": 6,
-          "name": “粉腸湯",
+          "name": "粉腸湯",
           "description": "",
           "price": 50,
           "available": true
         },
-   {
+        {
           "id": 7,
-          "name": “餛飩湯",
+          "name": "餛飩湯",
           "description": "",
           "price": 30,
           "available": true
         },
-   {
+        {
           "id": 8,
-          "name": “頁丸湯",
+          "name": "頁丸湯",
           "description": "",
           "price": 25,
           "available": true

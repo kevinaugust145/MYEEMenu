@@ -178,32 +178,35 @@
           "description": "清爽的黃瓜搭配蒜香",
           "price": 30,
           "available": true
-       },        
-       {
+        },
+        {
           "id": 2,
           "name": "四季豆",
           "description": "",
           "price": 30,
           "available": true
-        },       {
+        },
+        {
           "id": 3,
           "name": "豬耳朵",
           "description": "",
           "price": 30,
           "available": true
-        },       {
+        },
+        {
           "id": 4,
           "name": "涼伴素雞",
           "description": "",
           "price": 20,
           "available": true
-        },       {
+        },
+        {
           "id": 5,
           "name": "海帶絲白干絲",
           "description": "",
           "price": 20,
           "available": true
-        },
+        }
       ],
       "soup": [
         {
